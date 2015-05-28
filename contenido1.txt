@@ -1,5 +1,9 @@
 contenido 1
 
 commit 2
+<<<<<<< HEAD
 
 commit a3
+=======
+commit 3
+>>>>>>> 03883abc3ff5024895843e02feda02fae8a48e6f
